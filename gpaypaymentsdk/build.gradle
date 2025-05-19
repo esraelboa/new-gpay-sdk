@@ -37,8 +37,8 @@ dependencies {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'com.github.new-gpay-sdk'
-            artifactId = 'gpaypaymentsdk'
+            groupId = 'com.github.esraelboa'
+            artifactId = 'new-gpay-sdk'
             version = '0.0.0'
 
             afterEvaluate {
